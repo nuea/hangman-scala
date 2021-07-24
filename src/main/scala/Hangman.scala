@@ -28,7 +28,7 @@ object Hangman {
     val regex: String = if (chars.isEmpty) "[a-zA-Z]" else s"(?![$str])[a-zA-Z]"
     word
       .replaceAll("_", " ")
-      .replaceAll(regex, " _ ")
+      .replaceAll(regex, "_")
   }
 
   def play(guessWord: Word): Unit = {
