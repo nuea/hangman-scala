@@ -9,9 +9,8 @@
 มีการแสดงตัวอักษรที่เดาผิด มีการคํานวนคะแนนจากการเล่นเดาคําในแต่ละรอบ โดยจะคํานวนคะแนนอย่างไรขึ้นกับผู้ทดสอบเลย (คิดเกณฑ์/อัลกอริทึมการให้คะแนนเอง)
 
 ## Set up
-1. เปิด Terminal / Console(Command Line Interface) และพิมพ์คำสั่ง
-`git clone https://github.com/nuea/hangman-scala.git` เพื่อทำการ Download
-2. เมื่อ Download เสร็จจากนั้นพิมพ์คำสั่ง `cd hangman-scala` เพื่อทำการเข้าไปใน Folder
+1. เปิด Terminal / Console(Command Line Interface) clone project hangman-scala 
+2. `cd hangman-scala`
 3. จากนั้นพิมพ์คำสั่ง `sbt run` เพื่อทำการรันเกม Hangman
 
 ### Terminal/Console(Command Line Interface) จะแสดงดังนี้
