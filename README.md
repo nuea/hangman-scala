@@ -17,6 +17,3 @@
 ### Terminal/Console(Command Line Interface) จะแสดงดังนี้
 ![](console.png)
 
-### Resource file
-- [Hangman](https://github.com/nuea/hangman-scala/src/main/scala/Hangman.scala)
-- [Categories](https://github.com/nuea/hangman-scala/resources/categories)
