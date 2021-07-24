@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Vegetable",
+    "file": "categories/vegetable.json"
+  },
+  {
+    "name": "Animal",
+    "file": "categories/animal.json"
+  },
+  {
+    "name": "Fruit",
+    "file": "categories/fruit.json"
+  },
+  {
+    "name": "Satellite",
+    "file": "categories/satellite.json"
+  }
+]
