@@ -11,7 +11,8 @@
 ## Set up
 1. เปิด Terminal / Console(Command Line Interface) clone project hangman-scala 
 2. `cd hangman-scala`
-3. จากนั้นพิมพ์คำสั่ง `sbt run` เพื่อทำการรันเกม Hangman
+3. Install sbt (ถ้ามี sbt อยู่แล้วข้ามขั้นตอนนี้ไปได้เลย)
+4. `sbt run` เพื่อทำการรันเกม Hangman
 
 ### Terminal/Console(Command Line Interface) จะแสดงดังนี้
 ![](console.png)
